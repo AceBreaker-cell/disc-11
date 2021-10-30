@@ -1,4 +1,4 @@
-# Disc 11 by Zhycorp
+# Disc 11 - AceBreaker
 > A dedicated open-source music bot for Zhycorp based on [Jukebox](https://github.com/Hazmi35/jukebox)
 
 <a href="https://discord.gg/DxenCeV"><img src="https://img.shields.io/discord/332877090003091456?color=7289da&logo=discord&logoColor=white" alt="Discord server" /></a>
